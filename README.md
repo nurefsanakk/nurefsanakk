@@ -1,8 +1,6 @@
 ### Hi there I'm Nurefşan 👋
-## I'm a Student 👨‍🎓
-<!--
-**nurefsanakk/nurefsanakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 👨‍🎓 I'm a Student 
 - 🚀 I'm developing a project for Teknofest.
 - 📚 I'm a 4th year student at Konya Technical University.
 - 🌱 I’m currently learning Python and Java.
