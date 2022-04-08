@@ -7,6 +7,13 @@
 - ⚡ Fun fact: I love analog photography, reading classics of world 📚 and cycling 🚴‍♀️
 <br />
 
+### GitHub Analytics 📊
+
+![nurefsanakk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurefsanakk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurefsanakk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -24,13 +31,6 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
 
-
-<br />
-
-### GitHub Analytics 📊
-
-![nurefsanakk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurefsanakk&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurefsanakk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
