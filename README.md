@@ -1,11 +1,9 @@
 ### Hi there I'm Nurefşan 👋
 
-- 👨‍🎓 I'm a Student 
-- 🚀 I'm developing a project for Teknofest.
-- 📚 I'm a 4th year student at Konya Technical University.
+- 👨‍🎓 I'm a 4th year student at Konya Technical University. 
 - 🌱 I’m currently learning Python and Java.
 - 👀 I am interested in data science and artificial intelligence.
-- 📫 You can reach me from my e-mail address below and my Linkedin profile.
+- 🚀 I'm developing a project for Teknofest.
 - ⚡ Fun fact: I love analog photography, reading classics of world 📚 and cycling 🚴‍♀️
 <br />
 
