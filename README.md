@@ -7,9 +7,7 @@
 - 👀 I am interested in data science and artificial intelligence.
 - 📫 You can reach me from my e-mail address below and my Linkedin profile.
 - ⚡ Fun fact: I love analog photography, reading classics of world 📚 and cycling 🚴‍♀️
-
 <br />
-
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
