@@ -32,8 +32,8 @@
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurefsanakk&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
+![nurefsanakk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurefsanakk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurefsanakk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
