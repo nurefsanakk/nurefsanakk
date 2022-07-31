@@ -40,6 +40,6 @@
 [gmail]: mailto:nurefsanak99@gmail.com
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/nurefsanakk
 [python]: https://www.python.org/
 [java]: https://www.java.com/tr/
