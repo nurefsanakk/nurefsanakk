@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm a 4th year student at Konya Technical University. 
 - 🌱 I’m currently learning Python and Java.
 - 👀 I am interested in data science and artificial intelligence.
-- 🚀 I'm developing a project for Teknofest.
+- 🚀 I'm developing a project for TÜBİTAK.
 - ⚡ Fun fact: I love analog photography, reading classics of world 📚 and cycling 🚴‍♀️
 <br />
 
